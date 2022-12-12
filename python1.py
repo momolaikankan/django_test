@@ -9,3 +9,5 @@ def func(nums):
 
 
 print('ksksksk')
+def functest(ks):
+    print(ks)
