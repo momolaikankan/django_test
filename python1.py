@@ -6,4 +6,6 @@ for i in range(10):
 def func(nums):
     for i in range(nums):
         print(i)
-    
+
+
+print('ksksksk')
