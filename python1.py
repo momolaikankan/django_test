@@ -10,3 +10,4 @@ def func(nums):
 
 print('ksksksk')
 print('kkskd')
+print('2000')
